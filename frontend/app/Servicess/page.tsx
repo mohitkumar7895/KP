@@ -180,13 +180,14 @@ export default function Services() {
         </div>
 
         {/* Right Image */}
-        <div className="flex justify-center w-full h-72 md:h-96">
+  <div className="flex justify-center w-full h-72 md:h-96">
   <img
     src="/service.jpg"
     alt="Value and Beliefs"
     className="rounded-lg shadow-lg w-full max-w-md h-full object-cover"
   />
 </div>
+
 
       </div>
 
